@@ -1,0 +1,10 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+./idea
+.idea
+src
+.DS_Store
+yarn.lock
+webpack.config.js
